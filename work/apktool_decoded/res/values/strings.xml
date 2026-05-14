@@ -30,7 +30,7 @@
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
     <string name="add_category">添加分类</string>
-    <string name="app_name">我的记账本</string>
+    <string name="app_name">记账本</string>
     <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
     <string name="backup_count">备份条数</string>
     <string name="backup_device">备份设备</string>
@@ -167,9 +167,9 @@
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="string_format_date_y_m" formatted="false">%d年%d月</string>
     <string name="symbol_dot">.</string>
-    <string name="tally_about_about_app_content">本应用基于 coderpage 的「我的记账本」开发，感谢原作者的出色工作。\n\n当前仓库：https://github.com/Selee1995/lightweight-ledger</string>
+    <string name="tally_about_about_app_content">本应用基于 coderpage 的「记账本」开发，感谢原作者的出色工作。\n\n当前仓库：https://github.com/Selee1995/lightweight-ledger</string>
     <string name="tally_about_about_me_content">coderpage\n邮箱：codenobug@163.com\n仓库：https://github.com/coderpage/Mine</string>
-    <string name="tally_about_appreciate_content">EMM…反正入口放这儿了，有没有人给就随缘吧（跟我一样穷的就算了）</string>
+    <string name="tally_about_appreciate_content"></string>
     <string name="tally_about_check_new_version">检查更新</string>
     <string name="tally_about_find_new_version" formatted="false">新版本 %s(%d)</string>
     <string name="tally_about_send_email_content">1278329021@qq.com</string>
@@ -177,14 +177,14 @@
     <string name="tally_about_title_about_app">关于应用</string>
     <string name="tally_about_title_about_me">原作者</string>
     <string name="tally_about_title_app_info">应用信息</string>
-    <string name="tally_about_title_appreciate">打赏开发者</string>
+    <string name="tally_about_title_appreciate"></string>
     <string name="tally_about_title_developer_info">开发者</string>
     <string name="tally_about_title_send_email">发送邮件</string>
     <string name="tally_about_title_source_code">源代码</string>
     <string name="tally_about_title_version">版本</string>
-    <string name="tally_about_title_wechat">微信公众号</string>
-    <string name="tally_about_wechat_content">微信公众号：mineapp；可以通过公众号反馈意见或者BUG，点击去关注。</string>
-    <string name="tally_about_wechat_copied">微信公众号已复制</string>
+    <string name="tally_about_title_wechat"></string>
+    <string name="tally_about_wechat_content"></string>
+    <string name="tally_about_wechat_copied"></string>
     <string name="tally_add_record">记一笔…</string>
     <string name="tally_add_record_note">添加备注</string>
     <string name="tally_alert_backup">备份数据</string>
