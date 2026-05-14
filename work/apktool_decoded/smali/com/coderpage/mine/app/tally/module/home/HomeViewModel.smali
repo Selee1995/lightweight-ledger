@@ -9,9 +9,9 @@
 # static fields
 .field private static final BASE_H5_URL:Ljava/lang/String; = "http://h5.coderpage.com"
 
-.field private static final URL_APP_PROTOCOL_PRIVACY:Ljava/lang/String; = "http://h5.coderpage.com/doc/p/app/protocol/privacy"
+.field private static final URL_APP_PROTOCOL_PRIVACY:Ljava/lang/String; = "https://selee1995.github.io/lightweight-ledger/privacy.html"
 
-.field private static final URL_APP_PROTOCOL_USER:Ljava/lang/String; = "http://h5.coderpage.com/doc/p/app/protocol/user"
+.field private static final URL_APP_PROTOCOL_USER:Ljava/lang/String; = "https://selee1995.github.io/lightweight-ledger/user_agreement.html"
 
 
 # instance fields

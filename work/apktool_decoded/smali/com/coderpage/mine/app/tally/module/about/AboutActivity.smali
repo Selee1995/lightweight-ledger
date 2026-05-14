@@ -6,9 +6,9 @@
 # static fields
 .field private static final BASE_H5_URL:Ljava/lang/String; = "http://h5.coderpage.com"
 
-.field private static final URL_APP_PROTOCOL_PRIVACY:Ljava/lang/String; = "http://h5.coderpage.com/doc/p/app/protocol/privacy"
+.field private static final URL_APP_PROTOCOL_PRIVACY:Ljava/lang/String; = "https://selee1995.github.io/lightweight-ledger/privacy.html"
 
-.field private static final URL_APP_PROTOCOL_USER:Ljava/lang/String; = "http://h5.coderpage.com/doc/p/app/protocol/user"
+.field private static final URL_APP_PROTOCOL_USER:Ljava/lang/String; = "https://selee1995.github.io/lightweight-ledger/user_agreement.html"
 
 
 # instance fields
@@ -526,7 +526,7 @@
 
     const-string p1, ""
 
-    const-string v0, "http://h5.coderpage.com/doc/p/app/protocol/user"
+    const-string v0, "https://selee1995.github.io/lightweight-ledger/user_agreement.html"
 
     .line 73
     invoke-static {p0, p1, v0}, Lcom/coderpage/mine/app/tally/module/web/WebActivity;->open(Landroid/content/Context;Ljava/lang/String;Ljava/lang/String;)V
@@ -539,7 +539,7 @@
 
     const-string p1, ""
 
-    const-string v0, "http://h5.coderpage.com/doc/p/app/protocol/privacy"
+    const-string v0, "https://selee1995.github.io/lightweight-ledger/privacy.html"
 
     .line 74
     invoke-static {p0, p1, v0}, Lcom/coderpage/mine/app/tally/module/web/WebActivity;->open(Landroid/content/Context;Ljava/lang/String;Ljava/lang/String;)V

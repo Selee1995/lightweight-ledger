@@ -72,7 +72,7 @@
 
     const-string v0, ""
 
-    const-string v1, "http://h5.coderpage.com/doc/p/app/protocol/privacy"
+    const-string v1, "https://selee1995.github.io/lightweight-ledger/privacy.html"
 
     invoke-static {p1, v0, v1}, Lcom/coderpage/mine/app/tally/module/web/WebActivity;->open(Landroid/content/Context;Ljava/lang/String;Ljava/lang/String;)V
 
