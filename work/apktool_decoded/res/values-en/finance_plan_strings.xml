@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="finance_plan_title">Finance Plan</string>
-    <string name="finance_plan_entry_title">Finance Plan</string>
-    <string name="finance_plan_entry_tip">Set monthly income and savings goals to plan this month</string>
+    <string name="finance_plan_title">Budget Plan</string>
+    <string name="finance_plan_entry_title">Budget Plan</string>
+    <string name="finance_plan_entry_tip">Set monthly income and savings goals for budget planning</string>
     <string name="finance_plan_summary_title">Monthly Plan Summary</string>
     <string name="finance_plan_settings_title">Plan Settings</string>
     <string name="finance_plan_month_income">Monthly Income</string>
