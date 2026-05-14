@@ -2,6 +2,10 @@
 
 本仓库是基于原始记账本应用二次开发而来，保留了原有记账逻辑，并在此基础上加入了日预算、理财规划、语言切换和蓝白主题等改动。
 
+## 当前仓库
+
+- GitHub：<https://github.com/Selee1995/lightweight-ledger>
+
 ## 原作者信息
 
 - 原作者：coderpage
