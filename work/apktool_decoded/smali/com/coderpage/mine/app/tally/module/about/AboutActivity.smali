@@ -710,35 +710,6 @@
 
     invoke-virtual {p1, v0}, Landroid/view/View;->setOnLongClickListener(Landroid/view/View$OnLongClickListener;)V
 
-    const p1, 0x7f09009d
-
-    .line 70
-    invoke-virtual {p0, p1}, Lcom/coderpage/mine/app/tally/module/about/AboutActivity;->findViewById(I)Landroid/view/View;
-
-    move-result-object p1
-
-    iget-object v0, p0, Lcom/coderpage/mine/app/tally/module/about/AboutActivity;->mOnClickListener:Landroid/view/View$OnClickListener;
-
-    invoke-virtual {p1, v0}, Landroid/view/View;->setOnClickListener(Landroid/view/View$OnClickListener;)V
-
-    const p1, 0x7f09008f
-
-    .line 71
-    invoke-virtual {p0, p1}, Lcom/coderpage/mine/app/tally/module/about/AboutActivity;->findViewById(I)Landroid/view/View;
-
-    move-result-object v0
-
-    iget-object v1, p0, Lcom/coderpage/mine/app/tally/module/about/AboutActivity;->mOnClickListener:Landroid/view/View$OnClickListener;
-
-    invoke-virtual {v0, v1}, Landroid/view/View;->setOnClickListener(Landroid/view/View$OnClickListener;)V
-
-    .line 72
-    invoke-virtual {p0, p1}, Lcom/coderpage/mine/app/tally/module/about/AboutActivity;->findViewById(I)Landroid/view/View;
-
-    move-result-object p1
-
-    invoke-virtual {p1, v4}, Landroid/view/View;->setVisibility(I)V
-
     const p1, 0x7f09017c
 
     .line 73

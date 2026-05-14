@@ -167,15 +167,15 @@
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="string_format_date_y_m" formatted="false">%d年%d月</string>
     <string name="symbol_dot">.</string>
-    <string name="tally_about_about_app_content">周末业余时间写了这个应用，平时记记自己的消费支出，本着简单、干净、够用即可的原则（主要是水平有限），由于个人开发，难免有些问题，希望大家多多提意见，我也会一直维护下去的。</string>
-    <string name="tally_about_about_me_content">Android 程序员</string>
+    <string name="tally_about_about_app_content">本应用基于 coderpage 的「我的记账本」开发，感谢原作者的出色工作。\n\n当前仓库：https://github.com/Selee1995/lightweight-ledger</string>
+    <string name="tally_about_about_me_content">coderpage\n邮箱：codenobug@163.com\n仓库：https://github.com/coderpage/Mine</string>
     <string name="tally_about_appreciate_content">EMM…反正入口放这儿了，有没有人给就随缘吧（跟我一样穷的就算了）</string>
     <string name="tally_about_check_new_version">检查更新</string>
     <string name="tally_about_find_new_version" formatted="false">新版本 %s(%d)</string>
-    <string name="tally_about_send_email_content">我的个人邮箱 codenobug@163.com ，有问题可以给我发邮件。</string>
-    <string name="tally_about_source_code_content">代码已托管在 GitHub(https://github.com/coderpage/Mine) 上，欢迎吐槽我的渣渣代码。</string>
+    <string name="tally_about_send_email_content">1278329021@qq.com</string>
+    <string name="tally_about_source_code_content">https://github.com/Selee1995/lightweight-ledger</string>
     <string name="tally_about_title_about_app">关于应用</string>
-    <string name="tally_about_title_about_me">关于我</string>
+    <string name="tally_about_title_about_me">原作者</string>
     <string name="tally_about_title_app_info">应用信息</string>
     <string name="tally_about_title_appreciate">打赏开发者</string>
     <string name="tally_about_title_developer_info">开发者</string>
