@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/lyContainer" android:layout_width="match_parent" android:layout_height="match_parent" android:animateLayoutChanges="true"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <View android:layout_width="match_parent" android:layout_height="1.0px" style="@style/Divider" />
+    <android.support.design.widget.TabLayout android:id="@id/tabYear" android:background="@color/colorPrimary" android:paddingTop="@dimen/spacing_normal" android:layout_width="match_parent" android:layout_height="wrap_content" app:tabGravity="center" app:tabIndicatorHeight="0.0dp" app:tabMode="scrollable" app:tabPaddingEnd="@dimen/spacing_normal" app:tabPaddingStart="@dimen/spacing_large" />
+    <android.support.v7.widget.RecyclerView android:id="@id/recyclerMonth" android:background="@color/colorPrimary" android:paddingTop="@dimen/padding_normal" android:paddingBottom="@dimen/padding_normal" android:layout_width="match_parent" android:layout_height="wrap_content" />
+    <View android:background="@drawable/shadow_appbar" android:layout_width="match_parent" android:layout_height="@dimen/shadow_height" />
+</LinearLayout>

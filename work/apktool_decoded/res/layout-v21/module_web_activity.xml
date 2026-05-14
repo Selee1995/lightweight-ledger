@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:tag="layout-v21/module_web_activity_0" android:layout_width="match_parent" android:layout_height="match_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <include android:id="@id/toolbar" app:layout_constraintTop_toTopOf="parent" layout="@layout/toolbar" />
+    <FrameLayout android:layout_width="match_parent" android:layout_height="match_parent">
+        <com.coderpage.mine.ui.widget.MWebView android:id="@id/web_view" android:layout_width="match_parent" android:layout_height="match_parent" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintTop_toBottomOf="@id/toolbar" />
+        <com.coderpage.mine.ui.widget.ProgressView android:layout_gravity="top" android:id="@id/progress_view" android:layout_width="match_parent" android:layout_height="2.0dp" />
+        <View android:layout_gravity="top" android:id="@id/app_bar_divider_view" android:background="@color/divider" android:layout_width="match_parent" android:layout_height="1.0px" />
+    </FrameLayout>
+</LinearLayout>

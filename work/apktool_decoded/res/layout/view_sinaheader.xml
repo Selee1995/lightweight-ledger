@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="match_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/iv_arrow" android:layout_width="24.0dp" android:layout_height="24.0dp" android:src="@drawable/ic_arrow" />
+    <ImageView android:id="@id/iv_loading" android:visibility="gone" android:layout_width="34.0dp" android:layout_height="34.0dp" android:src="@drawable/anim_loading_view" />
+    <TextView android:textSize="16.0sp" android:id="@id/tv" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="16.0dp" android:text="下拉刷新" />
+</LinearLayout>

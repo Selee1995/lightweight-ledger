@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="home_card_month_total_expense_label">Monthly Expense</string>
+    <string name="home_card_month_budget_label">Monthly Budget</string>
+    <string name="home_card_month_income_label">Monthly Income</string>
+</resources>

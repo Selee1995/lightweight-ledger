@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="language_switch_title">Language</string>
+    <string name="language_switch_tip">Switch between Chinese and English</string>
+    <string name="language_switch_dialog_title">Choose Language</string>
+    <string name="language_switch_option_zh">Chinese</string>
+    <string name="language_switch_option_en">English</string>
+    <string name="language_switch_applied">Language changed</string>
+</resources>

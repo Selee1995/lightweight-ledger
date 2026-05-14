@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="home_card_month_total_expense_label">月支出</string>
+    <string name="home_card_month_budget_label">月预算</string>
+    <string name="home_card_month_income_label">月收入</string>
+</resources>

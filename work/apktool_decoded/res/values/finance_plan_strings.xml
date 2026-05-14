@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="finance_plan_title">理财计划</string>
+    <string name="finance_plan_entry_title">理财计划</string>
+    <string name="finance_plan_entry_tip">设置每月收入和存款目标，查看本月理财规划</string>
+    <string name="finance_plan_summary_title">本月规划摘要</string>
+    <string name="finance_plan_settings_title">计划设置</string>
+    <string name="finance_plan_month_income">每月收入</string>
+    <string name="finance_plan_savings_goal">存款目标</string>
+    <string name="finance_plan_month_budget">本月预算</string>
+    <string name="finance_plan_month_remaining">本月剩余预算</string>
+    <string name="finance_plan_today_budget">今日预算</string>
+    <string name="finance_plan_month_expense">本月总支出</string>
+    <string name="finance_plan_logged_income">本月已记收入</string>
+    <string name="finance_plan_planned_surplus">按预算计划可存</string>
+    <string name="finance_plan_estimated_surplus">按当前支出预计结余</string>
+    <string name="finance_plan_goal_gap">距离目标还差</string>
+    <string name="finance_plan_goal_progress">目标进度</string>
+    <string name="finance_plan_not_set">未设置</string>
+    <string name="finance_plan_set_action">设置</string>
+    <string name="finance_plan_budget_hint">月预算仍可在首页预算区域继续修改</string>
+    <string name="finance_plan_income_dialog_title">设置每月收入</string>
+    <string name="finance_plan_goal_dialog_title">设置存款目标</string>
+    <string name="finance_plan_income_input_hint">输入每月收入</string>
+    <string name="finance_plan_goal_input_hint">输入存款目标</string>
+    <string name="finance_plan_confirm">确定</string>
+    <string name="finance_plan_cancel">取消</string>
+    <string name="finance_plan_invalid_number">请输入正确的金额</string>
+    <string name="finance_plan_status_waiting">先设置每月收入和存款目标，再开始规划。</string>
+    <string name="finance_plan_status_ready">按当前设置，本月预计可结余 %1$s，距离目标还差 %2$s。</string>
+    <string name="finance_plan_status_reached">按当前设置，本月预计可结余 %1$s，已经超过目标 %2$s。</string>
+</resources>

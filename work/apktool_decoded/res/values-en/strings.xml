@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tally_module_home_non_budget_place_holder">No budget set</string>
+    <string name="tally_module_home_non_expense_place_holder">No expense yet</string>
+    <string name="tally_module_home_non_income_place_holder">No income yet</string>
+    <string name="tally_add_record">Add Record...</string>
+    <string name="tally_module_home_recent3day_tip" formatted="false">Today Budget %1$s   Today\'s Expense %2$s   Income %3$s</string>
+    <string name="tally_current_month_expense_amount">Current Month Expense</string>
+    <string name="tally_current_month_income_amount">Current Month Income</string>
+    <string name="tally_module_home_check_chart">View chart analysis</string>
+    <string name="tally_module_home_budget_label">Today\'s Budget</string>
+    <string name="setting">Settings</string>
+    <string name="tally_toolbar_title_setting">Settings</string>
+    <string name="tally_setting_btn_data_backup">Back Up Data</string>
+    <string name="tally_setting_btn_data_backup_tip">Back up ledger data</string>
+    <string name="tally_setting_btn_data_export_csv">Export CSV</string>
+    <string name="tally_setting_btn_data_export_csv_tip">Export ledger data as CSV</string>
+    <string name="tally_setting_btn_fingerprint_secret">Enable Fingerprint Lock</string>
+    <string name="menu_tally_setting">Settings</string>
+    <string name="menu_tally_records">Records</string>
+    <string name="menu_tally_chart">Details</string>
+    <string name="menu_tally_manager">Manage</string>
+    <string name="menu_tally_search">Search</string>
+    <string name="menu_tally_date_range_select">Select Date</string>
+    <string name="menu_tally_sort_category">Sort</string>
+</resources>

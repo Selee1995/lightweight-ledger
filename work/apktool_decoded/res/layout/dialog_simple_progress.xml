@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:paddingTop="10.0dp" android:paddingBottom="10.0dp" android:layout_width="match_parent" android:layout_height="match_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.coderpage.base.widget.ProgressWheel android:layout_gravity="center_vertical" android:layout_width="36.0dp" android:layout_height="36.0dp" android:layout_marginLeft="@dimen/padding_micro" app:matProg_barColor="?android:textColorPrimary" app:matProg_barWidth="3.0dp" app:matProg_progressIndeterminate="true" />
+    <TextView android:textSize="@dimen/app_text_size_medium" android:textColor="?android:textColorPrimary" android:layout_gravity="center_vertical" android:id="@id/tvText" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/padding_normal" />
+</LinearLayout>

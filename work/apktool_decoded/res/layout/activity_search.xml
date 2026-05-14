@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:tag="layout/activity_search_0" android:layout_width="match_parent" android:layout_height="match_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <android.support.constraint.ConstraintLayout android:id="@id/lySearchHistoryView" android:tag="binding_1" android:paddingTop="@dimen/toolbar_height" android:clipChildren="false" android:clipToPadding="false" android:layout_width="match_parent" android:layout_height="match_parent">
+        <android.support.v7.widget.RecyclerView android:id="@id/recyclerHistory" android:layout_width="match_parent" android:layout_height="wrap_content" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+    <com.coderpage.base.widget.LoadingLayout android:id="@id/loadingLayout" android:tag="binding_2" android:paddingTop="@dimen/toolbar_height" android:clipChildren="false" android:clipToPadding="false" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <com.lcodecore.tkrefreshlayout.TwinklingRefreshLayout android:id="@id/refreshLayout" android:layout_width="match_parent" android:layout_height="match_parent">
+            <android.support.v7.widget.RecyclerView android:id="@id/recyclerResult" android:layout_width="match_parent" android:layout_height="match_parent" />
+        </com.lcodecore.tkrefreshlayout.TwinklingRefreshLayout>
+    </com.coderpage.base.widget.LoadingLayout>
+    <LinearLayout android:layout_gravity="top" android:orientation="vertical" android:background="@color/transparent" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <android.support.v7.widget.Toolbar android:id="@id/toolbar" android:background="?colorPrimary" android:layout_width="match_parent" android:layout_height="?actionBarSize" app:titleTextColor="@color/appTextColorPrimary" style="@style/Widget.Toolbar">
+            <EditText android:id="@id/etSearch" android:tag="binding_3" android:layout_width="match_parent" android:layout_height="match_parent" android:hint="@string/tally_search_et_hint" android:imeOptions="actionSearch|flagNoExtractUi" android:imeActionLabel="@string/searchable_label" style="@style/SearchEditText" />
+        </android.support.v7.widget.Toolbar>
+    </LinearLayout>
+</FrameLayout>

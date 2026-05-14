@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="language_switch_title">&#x8BED;&#x8A00;</string>
+    <string name="language_switch_tip">&#x4E2D;&#x6587; / English</string>
+    <string name="language_switch_dialog_title">&#x9009;&#x62E9;&#x8BED;&#x8A00;</string>
+    <string name="language_switch_option_zh">&#x4E2D;&#x6587;</string>
+    <string name="language_switch_option_en">English</string>
+    <string name="language_switch_applied">&#x8BED;&#x8A00;&#x5DF2;&#x5207;&#x6362;</string>
+</resources>

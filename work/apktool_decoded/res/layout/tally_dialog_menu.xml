@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:tag="layout/tally_dialog_menu_0" android:layout_width="match_parent" android:layout_height="match_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <android.support.constraint.ConstraintLayout android:layout_gravity="bottom" android:background="@drawable/bg_dialog_menu" android:paddingTop="@dimen/padding_normal" android:layout_width="match_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/padding_normal" android:paddingEnd="@dimen/padding_normal">
+        <android.support.v7.widget.RecyclerView android:id="@id/recyclerMenu" android:padding="@dimen/padding_micro" android:layoutAnimation="@anim/layout_anim_tally_menu_in" android:layout_width="0.0dp" android:layout_height="wrap_content" app:layout_constraintBottom_toTopOf="@id/ivClose" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" />
+        <android.support.v7.widget.AppCompatImageView android:id="@id/ivClose" android:tag="binding_1" android:background="@drawable/bg_clickable_view_40dp" android:padding="18.0dp" android:layout_width="60.0dp" android:layout_height="60.0dp" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:srcCompat="@drawable/ic_close" app:tint="@color/black" />
+    </android.support.constraint.ConstraintLayout>
+</FrameLayout>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout android:tag="layout/tally_module_edit_category_item_category_icon_0" android:background="@drawable/bg_common_card_white" android:paddingTop="@dimen/padding_normal" android:paddingBottom="@dimen/padding_normal" android:layout_width="match_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <FrameLayout android:tag="binding_1" android:padding="6.0dp" android:layout_width="30.0dp" android:layout_height="30.0dp" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent">
+        <android.support.v7.widget.AppCompatImageView android:tag="binding_2" android:layout_width="match_parent" android:layout_height="match_parent" />
+    </FrameLayout>
+</android.support.constraint.ConstraintLayout>

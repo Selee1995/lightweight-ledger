@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout android:tag="layout/tally_module_edit_category_item_sort_0" android:background="@drawable/bg_common_card_white" android:paddingTop="@dimen/padding_normal" android:paddingBottom="@dimen/padding_normal" android:layout_width="match_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <FrameLayout android:id="@id/lyCategoryIcon" android:tag="binding_1" android:padding="8.0dp" android:layout_width="30.0dp" android:layout_height="30.0dp" android:layout_marginStart="@dimen/padding_normal" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintLeft_toLeftOf="parent" app:layout_constraintTop_toTopOf="parent">
+        <android.support.v7.widget.AppCompatImageView android:layout_gravity="center_vertical" android:id="@id/ivCategoryIcon" android:tag="binding_2" android:layout_width="match_parent" android:layout_height="match_parent" />
+    </FrameLayout>
+    <TextView android:textSize="@dimen/app_text_size_normal" android:textColor="@color/appTextColorPrimary" android:tag="binding_3" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginStart="@dimen/padding_micro" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintStart_toEndOf="@id/lyCategoryIcon" app:layout_constraintTop_toTopOf="parent" />
+    <android.support.v7.widget.AppCompatImageView android:layout_width="46.0dp" android:layout_height="0.0dp" android:paddingStart="@dimen/padding_normal" android:paddingEnd="@dimen/padding_normal" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintTop_toTopOf="parent" app:srcCompat="@drawable/ic_sort" />
+</android.support.constraint.ConstraintLayout>

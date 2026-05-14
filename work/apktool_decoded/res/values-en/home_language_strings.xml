@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tally_home_backup_notice">Auto backup is off. Deleted or uninstalled app data may be lost. Turn on &gt;</string>
+</resources>

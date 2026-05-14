@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="finance_plan_title">Finance Plan</string>
+    <string name="finance_plan_entry_title">Finance Plan</string>
+    <string name="finance_plan_entry_tip">Set monthly income and savings goals to plan this month</string>
+    <string name="finance_plan_summary_title">Monthly Plan Summary</string>
+    <string name="finance_plan_settings_title">Plan Settings</string>
+    <string name="finance_plan_month_income">Monthly Income</string>
+    <string name="finance_plan_savings_goal">Savings Goal</string>
+    <string name="finance_plan_month_budget">Monthly Budget</string>
+    <string name="finance_plan_month_remaining">Remaining Budget</string>
+    <string name="finance_plan_today_budget">Today Budget</string>
+    <string name="finance_plan_month_expense">Monthly Expense</string>
+    <string name="finance_plan_logged_income">Logged Income</string>
+    <string name="finance_plan_planned_surplus">Planned Savings</string>
+    <string name="finance_plan_estimated_surplus">Estimated Balance</string>
+    <string name="finance_plan_goal_gap">Gap to Goal</string>
+    <string name="finance_plan_goal_progress">Goal Progress</string>
+    <string name="finance_plan_not_set">Not set</string>
+    <string name="finance_plan_set_action">Set</string>
+    <string name="finance_plan_budget_hint">Monthly budget can still be adjusted from the home screen</string>
+    <string name="finance_plan_income_dialog_title">Set Monthly Income</string>
+    <string name="finance_plan_goal_dialog_title">Set Savings Goal</string>
+    <string name="finance_plan_income_input_hint">Enter monthly income</string>
+    <string name="finance_plan_goal_input_hint">Enter savings goal</string>
+    <string name="finance_plan_confirm">Confirm</string>
+    <string name="finance_plan_cancel">Cancel</string>
+    <string name="finance_plan_invalid_number">Please enter a valid amount</string>
+    <string name="finance_plan_status_waiting">Set monthly income and a savings goal to start planning.</string>
+    <string name="finance_plan_status_ready">With the current plan, this month is expected to leave %1$s, and %2$s is still needed to hit the goal.</string>
+    <string name="finance_plan_status_reached">With the current plan, this month is expected to leave %1$s, which is %2$s above the goal.</string>
+</resources>
